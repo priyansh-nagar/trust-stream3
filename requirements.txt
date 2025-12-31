@@ -1,0 +1,8 @@
+streamlit==1.31.0
+numpy
+pillow
+timm==0.9.12
+opencv-python-headless==4.8.1.78
+pytorch-grad-cam==1.4.0
+torch==2.0.1+cpu
+torchvision==0.15.2+cpu
