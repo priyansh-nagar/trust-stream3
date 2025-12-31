@@ -1,0 +1,8 @@
+streamlit
+torch==2.1.0
+torchvision==0.16.0
+timm
+opencv-python-headless
+pillow
+numpy
+pytorch-grad-cam
